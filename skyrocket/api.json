@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=12511&task=get",
-    "timestamp": "1448431857",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15511&task=get",
+    "timestamp": "1449343147",
     "api_level": "23",
-    "md5sum": "16d9e7a677863226888547ce6b91e1a0",
-    "filename": "cm-13.0-20151125-UNOFFICIAL-skyrocket-test.zip",
+    "md5sum": "9ffdd1717115ace8a2a2839fe7d682ae",
+    "filename": "cm-13.0-20151205-UNOFFICIAL-skyrocket.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
