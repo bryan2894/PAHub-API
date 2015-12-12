@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15510&task=get",
-    "timestamp": "1449343147",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15530&task=get",
+    "timestamp": "1449430153",
     "api_level": "23",
-    "md5sum": "9c9e52c5ece61c9b58061d7a1a463d23",
-    "filename": "cm-13.0-20151205-UNOFFICIAL-hercules.zip",
+    "md5sum": "ddb9a5981fa2383a5d29155b7ac6cfb8",
+    "filename": "cm-13.0-20151206-UNOFFICIAL-hercules.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
