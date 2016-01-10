@@ -21,6 +21,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16159&task=get",
+    "timestamp": "1452455437",
+    "api_level": "23",
+    "md5sum": "9eb5dc3a095caedb5b0438196a111600",
+    "filename": "cm-13.0-20160110-UNOFFICIAL-hercules.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
