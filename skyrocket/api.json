@@ -2,16 +2,6 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15529&task=get",
-    "timestamp": "1449430153",
-    "api_level": "23",
-    "md5sum": "00521c8c234ecd923beaa7b254ced1f4",
-    "filename": "cm-13.0-20151206-UNOFFICIAL-skyrocket.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
     "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15818&task=get",
     "timestamp": "1450816088",
     "api_level": "23",
@@ -22,11 +12,11 @@
     "incremental": ""
     },
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16160&task=get",
-    "timestamp": "1452456103",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16356&task=get",
+    "timestamp": "1453402048",
     "api_level": "23",
-    "md5sum": "f794b4c777094efc4a4d49d090e21814",
-    "filename": "cm-13.0-20160110-UNOFFICIAL-skyrocket.zip",
+    "md5sum": "2dd05007b43b8eb1d14f7e7aa194bb4a",
+    "filename": "cm-13.0-20160121-UNOFFICIAL-skyrocket.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
