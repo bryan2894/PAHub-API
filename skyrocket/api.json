@@ -2,16 +2,6 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15818&task=get",
-    "timestamp": "1450816088",
-    "api_level": "23",
-    "md5sum": "128b6a33afbfa6f067f671dfe06f25b8",
-    "filename": "cm-13.0-20151222-UNOFFICIAL-skyrocket.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
     "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16467&task=get",
     "timestamp": "1453901121",
     "api_level": "23",
@@ -19,6 +9,16 @@
     "filename": "cm-13.0-20160127-UNOFFICIAL-skyrocket.zip",
     "channel": "NIGHTLY",
     "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16898&task=get",
+    "timestamp": "1455671925",
+    "api_level": "23",
+    "md5sum": "5635fe8940622145ed4f258c881737a8",
+    "filename": "cm-13.0-20160216-UNOFFICIAL-skyrocket.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-13.0/skyrocket/changelog.txt",
     "incremental": ""
     },
   ],
