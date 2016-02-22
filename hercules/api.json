@@ -12,11 +12,11 @@
     "incremental": ""
     },
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=16897&task=get",
-    "timestamp": "1455671925",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17023&task=get",
+    "timestamp": "1456159263",
     "api_level": "23",
-    "md5sum": "7f2ec705d1878f83f5e4d348db6eab0a",
-    "filename": "cm-13.0-20160216-UNOFFICIAL-hercules.zip",
+    "md5sum": "e0332f23ff1ac772b9528d35511140c5",
+    "filename": "cm-13.0-20160222-UNOFFICIAL-hercules.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-13.0/hercules/changelog.txt",
     "incremental": ""
