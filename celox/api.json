@@ -11,6 +11,16 @@
     "changes": "https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-13.0/celox/changelog.txt",
     "incremental": ""
     },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=18617&task=get",
+    "timestamp": "1464312514",
+    "api_level": "23",
+    "md5sum": "cb14879847196161554f9a1a074fdc8f",
+    "filename": "cm-13.0-20160526-UNOFFICIAL-celox.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/bryan2894/CMUpdater-API/cm-13.0/celox/changelog.txt",
+    "incremental": ""
+    },
   ],
  "error": null
 }
