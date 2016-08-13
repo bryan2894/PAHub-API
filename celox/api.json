@@ -4,12 +4,12 @@
     [
         {
              "channel": null,
-             "name": "pa_celox-6.0.1-20160706.zip",
-             "version": "6.0.1",
-             "build": "20160706",
-             "size": 297549136,
-             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=19170&task=get",
-             "md5": "6ecb1cb499cfa725170b285f0b5577e0"
+             "name": "pa_celox-6.0.3-20160812.zip",
+             "version": "6.0.3",
+             "build": "20160812",
+             "size": 293746117,
+             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=19806&task=get",
+             "md5": "554b154291035c89419520de7c755e7b"
         }
     ]
 }
