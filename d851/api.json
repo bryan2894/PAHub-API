@@ -1,15 +1,15 @@
 {
     "device": "d851",
+    "builds": 1,
     "updates":
     [
         {
-             "channel": null,
-             "name": "pa_d851-6.0.3-20160913.zip",
-             "version": "6.0.3",
-             "build": "20160913",
-             "size": 352124070,
-             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=20386&task=get",
-             "md5": "8b35fc2e72f0d55f46fb0be4cb8b4dfa"
+             "name": "pa_d851-7.2.3-DEV-20170823.zip",
+             "version": "7.2.3",
+             "build": "20170823",
+             "size": 439898052,
+             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=26306&task=get",
+             "md5": "8454116da6bbf345617c8b121595af34"
         }
     ]
 }
