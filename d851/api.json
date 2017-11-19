@@ -4,12 +4,12 @@
     "updates":
     [
         {
-             "name": "pa_d851-7.2.3-DEV-20170924.zip",
-             "version": "7.2.3",
-             "build": "20170924",
-             "size": 445268408,
-             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=26772&task=get",
-             "md5": "5b693f261121b677e2458982f6bcd35c"
+             "name": "pa_d851-7.3.1-EOL-20171119.zip",
+             "version": "7.3.1",
+             "build": "20171119",
+             "size": 438249298,
+             "url": "http://forum.xda-developers.com/devdb/project/dl/?id=27364&task=get",
+             "md5": "6df6e8ec90c58ec51005aa5423da3c41"
         }
     ]
 }
